@@ -1,0 +1,5 @@
+{
+  "giga_credentials": "12345ABC",
+  "verify_ssl_certs": true,
+  "scope": "GIGACHAT_API_PERS"
+}
