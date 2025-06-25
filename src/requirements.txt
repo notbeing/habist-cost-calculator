@@ -1,0 +1,5 @@
+gigachat>=0.1.39.post2
+matplotlib>=3.10
+Markdown>=3.8
+tkcalendar>=1.6
+tkhtmlview>=0.3
